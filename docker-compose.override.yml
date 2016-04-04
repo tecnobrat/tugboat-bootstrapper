@@ -1,0 +1,6 @@
+lb:
+  environment:
+    - "LB_SSL=true"
+    - "LB_DOMAIN=tugboat.ninja"
+    - "LB_SSL_KEY_FILE=tugboat.ninja-self.key"
+    - "LB_SSL_CRT_FILE=tugboat.ninja-self.crt"

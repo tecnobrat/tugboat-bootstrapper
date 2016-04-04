@@ -1,0 +1,3 @@
+[submodule "tugboat"]
+	path = tugboat
+	url = https://github.com/articulate/tugboat.git
